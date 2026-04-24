@@ -113,4 +113,3 @@ Rank  Participant          Total Score
 ## Author
 
 Madhumathi R
-SRM Institute of Science and Technology
